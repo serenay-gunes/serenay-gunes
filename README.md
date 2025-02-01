@@ -17,3 +17,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=serenay-gunes&show_icons=true&locale=en&layout=compact" alt="serenay-gunes" /></p>
 
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=serenay-gunes&show_icons=true&theme=radical" alt="Serenay's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=serenay-gunes&theme=radical" alt="GitHub Streak" />
+</p>
+

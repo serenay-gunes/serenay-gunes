@@ -10,7 +10,6 @@
   📫 How to reach me: <strong>serenaygunes@icloud.com</strong> 
 </p>
 
----
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
@@ -73,7 +72,6 @@
   </a> 
 </p>
 
----
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -82,7 +80,6 @@
   </a>
 </p>
 
----
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=serenay-gunes&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />

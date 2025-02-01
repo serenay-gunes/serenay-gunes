@@ -1,7 +1,5 @@
- [![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FSocial-media-networks-Sourcehttp-wwwcyberneticsltdcom-services-w_fig1_301228243&psig=AOvVaw3nwP2M5JQRpPDbXnKD0prN&ust=1738530110961000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjy6b-vo4sDFQAAAAAdAAAAABAE)
 
 <h1 align="center">Hi 👋, I'm Serenay Güneş</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=serenay-gunes&label=Profile%20views&color=0e75b6&style=flat" alt="serenay-gunes" /> </p>
 

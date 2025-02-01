@@ -73,17 +73,13 @@
 </p>
 
 <h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/serenaygunes/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" style="margin: 5px;"/>
+  </a>
+</p>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/serenaygunes/" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="50"/>
-      </a>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=serenay-gunes&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=serenay-gunes&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p> 

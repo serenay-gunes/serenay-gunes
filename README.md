@@ -23,3 +23,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=serenay-gunes&theme=radical" alt="GitHub Streak" />
 </p>
 
+### 🛠️ Languages & Tools
+![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)
+![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
+![Blazor](https://img.shields.io/badge/-Blazor-05122A?style=flat&logo=blazor)
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=serenay-gunes&label=Profile%20views&color=0e75b6&style=flat" alt="serenay-gunes" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=serenay-gunes&theme=dracula" alt="GitHub Activity Graph" />
+</p>

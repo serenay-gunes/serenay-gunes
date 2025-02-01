@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Serenay Güneş</h1>
+<h1 align="center">Hi there, I'm Serenay Güneş</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=serenay-gunes&label=Profile%20views&color=0e75b6&style=flat" alt="serenay-gunes" />
